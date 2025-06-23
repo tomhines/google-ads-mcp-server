@@ -1,0 +1,7 @@
+# Additional dependencies for ad creation extensions
+pytest>=7.0.0
+black>=22.0.0
+pylint>=2.15.0
+aiofiles>=0.8.0
+Pillow>=9.0.0  # For image processing
+requests>=2.28.0  # For asset uploadspython-dotenv>=1.0.0
